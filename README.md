@@ -1,3 +1,1 @@
-# PersonalConfig
-# PersonalConfig
-# PersonalConfig
+# Walee's personal development setup :) 
