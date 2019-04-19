@@ -13,11 +13,14 @@ ln -sf $HOME/.vim/vimrc $HOME/.vimrc
 cd $HOME/.vim
 git submodule update --init
 
-# Fish
+# Fish Shell
 brew install fish
 
 # OhMyFish
 curl -L https://get.oh-my.fish | fish
+
+# Bass for Fish (bash compatibility)
+omf install bass
 
 # GCloud CLI
 cd ~/
