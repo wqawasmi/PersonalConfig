@@ -1,1 +1,0 @@
-/Users/waleq/.hyper.js
